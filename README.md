@@ -4,3 +4,5 @@ this tool do 2 things:
 2- add some empty text to make the text have right to left support. its made here by 19.5 which is good for options right to left support
 
 ![2025-05-22 15 58 20](https://github.com/user-attachments/assets/89417cee-2c60-4986-b084-9055b9b88dc5)
+
+![‏لقطة الشاشة 2025-06-15 في 10 43 12 ص](https://github.com/user-attachments/assets/0837be04-7eb6-4243-962e-2695a8dd9dea)
